@@ -1,3 +1,12 @@
-# fortuna
+## ✨ Key Features
+* **Event Planning:** Schedule and manage upcoming matches and training sessions with ease.
+* **Performance Tracking:** Monitor individual and team metrics to stay on top of your game.
+* **Activity Logs:** Keep a detailed history of all training activities and match results.
+* **Personalized Dashboard:** A central hub for players to see their upcoming schedule and recent progress.
 
-A new Flutter project.
+* ## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/Screenshot_1773236122.png" width="250" alt="Main Screen">
+  <img src="screenshots/details_screen.png" width="250" alt="Details Screen">
+  <img src="screenshots/stats_screen.png" width="250" alt="Statistics Screen">
+</p>
