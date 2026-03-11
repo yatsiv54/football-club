@@ -7,6 +7,6 @@
 * ## 📸 Screenshots
 <p align="center">
   <img src="screenshots/Screenshot_1773236122.png" width="250" alt="Main Screen">
-  <img src="screenshots/details_screen.png" width="250" alt="Details Screen">
-  <img src="screenshots/stats_screen.png" width="250" alt="Statistics Screen">
+  <img src="screenshots/Screenshot_1773236134.png" width="250" alt="Details Screen">
+  <img src="screenshots/Screenshot_1773236217.png" width="250" alt="Statistics Screen">
 </p>
