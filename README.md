@@ -1,7 +1,7 @@
 ## Fortuna football club
 Elevate your football game with automated scheduling and data-driven performance insights. Manage your team's matches and training in one place.
 
-A specialized mobile solution developed for a **Gambling Affiliate Program**, designed to engage users through interactive sports scheduling and performance tracking
+A specialized mobile solution developed for a 'Gambling Affiliate Program', designed to engage users through interactive sports scheduling and performance tracking
 
 ## Status
 - **Google Play Store:** ✅ Verified & Published
