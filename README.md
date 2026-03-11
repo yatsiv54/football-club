@@ -4,7 +4,7 @@
 * **Activity Logs:** Keep a detailed history of all training activities and match results.
 * **Personalized Dashboard:** A central hub for players to see their upcoming schedule and recent progress.
 
-* ## 📸 Screenshots
+## 📸 Screenshots
 <p align="center">
   <img src="screenshots/Screenshot_1773236122.png" width="250" alt="Main Screen">
   <img src="screenshots/Screenshot_1773236134.png" width="250" alt="Details Screen">
