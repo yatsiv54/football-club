@@ -1,6 +1,8 @@
 ## Fortuna football club
 Elevate your football game with automated scheduling and data-driven performance insights. Manage your team's matches and training in one place.
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ## Overview
 A specialized mobile solution developed for a `Gambling Affiliate Program`, designed to engage users through interactive sports scheduling and performance tracking
 
